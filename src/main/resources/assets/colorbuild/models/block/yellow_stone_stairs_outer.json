@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "colorbuild:blocks/yellow_stone",
+    "top": "colorbuild:blocks/yellow_stone",
+    "side": "colorbuild:blocks/yellow_stone"
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"C  ",
+		"CC ",
+		"CCC"
+	],
+	
+	"key":
+	{
+		"C": { "item": "colorbuild:red_stone" }
+	},
+	
+	"result": { "item": "colorbuild:red_stone_stairs",
+	"count": 4
+	}
+}

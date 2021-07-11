@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"CCC",
+		"CDC",
+		"CCC"
+	],
+	
+	"key":
+	{
+		"C": { "item": "minecraft:stone" },
+		"D": { "item": "minecraft:black_dye" }		
+	},
+	
+	"result": { "item": "colorbuild:black_stone",
+	"count": 8
+	}
+}

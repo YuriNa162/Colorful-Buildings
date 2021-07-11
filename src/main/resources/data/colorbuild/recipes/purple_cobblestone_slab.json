@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"CCC"
+	],
+	
+	"key":
+	{
+		"C": { "item": "colorbuild:purple_cobblestone" }
+	},
+	
+	"result": { "item": "colorbuild:purple_cobblestone_slab",
+	"count": 6
+	}
+}

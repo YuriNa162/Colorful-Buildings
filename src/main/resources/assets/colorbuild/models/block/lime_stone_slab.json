@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "colorbuild:blocks/lime_stone",
+    "top": "colorbuild:blocks/lime_stone",
+    "side": "colorbuild:blocks/lime_stone"
+  }
+}

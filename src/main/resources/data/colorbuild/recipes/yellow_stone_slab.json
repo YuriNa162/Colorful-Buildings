@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"CCC"
+	],
+	
+	"key":
+	{
+		"C": { "item": "colorbuild:yellow_stone" }
+	},
+	
+	"result": { "item": "colorbuild:yellow_stone_slab",
+	"count": 6
+	}
+}

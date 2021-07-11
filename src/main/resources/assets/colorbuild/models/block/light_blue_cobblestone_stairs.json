@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "colorbuild:blocks/light_blue_cobblestone",
+    "top": "colorbuild:blocks/light_blue_cobblestone",
+    "side": "colorbuild:blocks/light_blue_cobblestone"
+  }
+}

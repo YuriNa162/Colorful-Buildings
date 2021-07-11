@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "colorbuild:blocks/black_stone",
+    "top": "colorbuild:blocks/black_stone",
+    "side": "colorbuild:blocks/black_stone"
+  }
+}

@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"CCC",
+		"CDC",
+		"CCC"
+	],
+	
+	"key":
+	{
+		"C": { "item": "minecraft:stone" },
+		"D": { "item": "minecraft:light_blue_dye" }		
+	},
+	
+	"result": { "item": "colorbuild:light_blue_stone",
+	"count": 8
+	}
+}

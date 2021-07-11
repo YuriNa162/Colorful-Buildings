@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "colorbuild:blocks/magenta_stone",
+    "top": "colorbuild:blocks/magenta_stone",
+    "side": "colorbuild:blocks/magenta_stone"
+  }
+}

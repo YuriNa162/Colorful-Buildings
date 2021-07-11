@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"CCC"
+	],
+	
+	"key":
+	{
+		"C": { "item": "colorbuild:lime_stone" }
+	},
+	
+	"result": { "item": "colorbuild:lime_stone_slab",
+	"count": 6
+	}
+}

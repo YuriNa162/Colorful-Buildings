@@ -1,0 +1,29 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)"
+license="All rights reserved"
+
+[[mods]]
+modId="colorbuild"
+version="1.0"
+displayName="Colorful Buildings"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/colorful-buildings"
+logoFile="logo.png"
+credits="Indie that's why it's bad"
+authors="YuriNa"
+description='''
+Adds colored blocks to spice up your buildings!
+'''
+
+[[dependencies.examplemod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

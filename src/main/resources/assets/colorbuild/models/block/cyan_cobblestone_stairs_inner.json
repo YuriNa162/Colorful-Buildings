@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "colorbuild:blocks/cyan_cobblestone",
+    "top": "colorbuild:blocks/cyan_cobblestone",
+    "side": "colorbuild:blocks/cyan_cobblestone"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "colorbuild:block/lime_cobblestone_slab"
+    },
+    "type=double": {
+      "model": "colorbuild:block/lime_cobblestone"
+    },
+    "type=top": {
+      "model": "colorbuild:block/lime_cobblestone_slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "colorbuild:blocks/magenta_cobblestone",
+    "top": "colorbuild:blocks/magenta_cobblestone",
+    "side": "colorbuild:blocks/magenta_cobblestone"
+  }
+}

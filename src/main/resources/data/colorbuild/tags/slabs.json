@@ -1,0 +1,40 @@
+{
+  "replace": false,
+  "values": [
+    "colorbuild:black_stone_slab",
+    "colorbuild:red_stone_slab",
+    "colorbuild:green_stone_slab",
+    "colorbuild:brown_stone_slab",
+    "colorbuild:blue_stone_slab",
+    "colorbuild:purple_stone_slab",
+    "colorbuild:cyan_stone_slab",
+    "colorbuild:light_gray_stone_slab",
+    "colorbuild:gray_stone_slab",
+    "colorbuild:pink_stone_slab",
+    "colorbuild:lime_stone_slab",
+    "colorbuild:yellow_stone_slab",
+    "colorbuild:light_blue_stone_slab",
+    "colorbuild:magenta_stone_slab",
+    "colorbuild:orange_stone_slab",
+    "colorbuild:white_stone_slab",
+
+    "colorbuild:black_cobblestone_slab",
+    "colorbuild:red_cobblestone_slab",
+    "colorbuild:green_cobblestone_slab",
+    "colorbuild:brown_cobblestone_slab",
+    "colorbuild:blue_cobblestone_slab",
+    "colorbuild:purple_cobblestone_slab",
+    "colorbuild:cyan_cobblestone_slab",
+    "colorbuild:light_gray_cobblestone_slab",
+    "colorbuild:gray_cobblestone_slab",
+    "colorbuild:pink_cobblestone_slab",
+    "colorbuild:lime_cobblestone_slab",
+    "colorbuild:yellow_cobblestone_slab",
+    "colorbuild:light_blue_cobblestone_slab",
+    "colorbuild:magenta_cobblestone_slab",
+    "colorbuild:orange_cobblestone_slab",
+    "colorbuild:white_cobblestone_slab",
+
+    "colorbuild:test_slab"
+  ]
+}

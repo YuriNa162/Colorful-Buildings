@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "colorbuild:block/brown_stone_slab"
+    },
+    "type=double": {
+      "model": "colorbuild:block/brown_stone"
+    },
+    "type=top": {
+      "model": "colorbuild:block/brown_stone_slab_top"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"CCC"
+	],
+	
+	"key":
+	{
+		"C": { "item": "colorbuild:light_gray_stone" }
+	},
+	
+	"result": { "item": "colorbuild:light_gray_stone_slab",
+	"count": 6
+	}
+}

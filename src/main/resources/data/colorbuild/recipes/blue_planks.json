@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"CCC",
+		"CDC",
+		"CCC"
+	],
+	
+	"key":
+	{
+		"C": { "tag": "minecraft:planks" },
+		"D": { "item": "minecraft:blue_dye" }		
+	},
+	
+	"result": { "item": "colorbuild:blue_planks",
+	"count": 8
+	}
+}

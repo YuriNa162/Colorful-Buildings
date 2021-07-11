@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "colorbuild:blocks/pink_stone",
+    "top": "colorbuild:blocks/pink_stone",
+    "side": "colorbuild:blocks/pink_stone"
+  }
+}
